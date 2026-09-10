@@ -1,6 +1,6 @@
 # NFC Card Remastered - Hacker Card
 
-![Overall]()
+![Overall](/assets/overall.png)
 
 <a href="github.com/imtua/nfc-card-remastered"><b>NFC Card Remastered</b></a> is a digital NFC business card that features a LED in it. The copper ring or the NFC antennas actually harvest a little amount of electricity through the antenna from the phone or the device and with that harvested electricity, the LED lights up. How cool is that!
 
@@ -20,19 +20,19 @@ That's how **NFC Tags** harvest tiny amounts of energy from a device, and with t
 - Cool Design! (More cooler than <a href="github.com/imtua/ImtCard"><b>ImtCard</b></a>)
 
 ## Schematics
-![Schematics]()
+![Schematics](/assets/schematics.png)
 
 ## PCB
-![PCB]()
+![PCB](/assets/pcb.png)
 
 ## 3D Overview
-![Front]()
-![Back]()
+![Front](/assets/pcb%203d%20front.png)
+![Back](/assets/pcb%203d%20back.png)
 
 # Conclusion
 You can actually get inspired from my project and try it yourself. This is made on KiCad so it provides:
-* **nfc remastered.kicad_sch** file
-* **nfc remastered.kicad_pcb** file
+* **businesscard.kicad_sch** file
+* **businesscard.kicad_pcb** file
 
 With these, you can do it yourself. Other than that, if you want to order exactly one like me, find this file-
 * **gerber.zip**
