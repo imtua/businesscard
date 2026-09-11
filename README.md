@@ -27,7 +27,7 @@ That's how **NFC Tags** harvest tiny amounts of energy from a device, and with t
 
 ## 3D Overview
 ![Front](/assets/pcb%203d%20front.png)
-![Back](/assets/pcb%203d%20front.png)
+![Back](/assets/pcb%203d%20back.png)
 
 # Color Inspos
 ![Black](/assets/color%20inspo/black.png)
