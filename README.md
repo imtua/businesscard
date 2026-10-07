@@ -49,4 +49,4 @@ With these, you can do it yourself. Other than that, if you want to order exactl
 
 Stardance Project Link: <a href="https://stardance.hackclub.com/projects/59907"><b>NFC CARD REMASTERED</b></a>
 
-Made by <a href="github.com/imtua"><b>Imtiaz Ahamed</b></a> with the help of <a href="hackclub.com"><b>Hack Club</b></a>.
+Made by <a href="github.com/imtua"><b>Imtiaz Ahamed</b></a> with the help of <a href="hackclub.com"><b>Hack Club</b></a>
